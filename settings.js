@@ -33,7 +33,7 @@ global.vcardowner = ['+263787417466'] // owner number
 global.ownername = "keen-kedira" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: keen-kefira" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Africa, Zimbabwe, Harare" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/wy5PbRf/IMG-20220805-WA0003.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
